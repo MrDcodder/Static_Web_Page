@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-bottom: 2px solid #7effff; /* Add a border for a nicer look */
+}
+
+footer {
+    background-color: #0cfff3;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.jumbotron {
+    background-color: #ffdd1b; /* Change header background color */
+    color: rgb(231, 67, 67); /* Change text color */
+}
+
+.navbar {
+    margin-bottom: 20px; /* Add some space below the navbar */
+}
+
+.dropdown-menu {
+    background-color: #9995cc; /* Change dropdown background color */
+}
+
+.dropdown-item {
+    color: rgba(76, 4, 190, 0.836); /* Change dropdown text color */
+}
+
+.dropdown-item:hover {
+    background-color: #99f75b; /* Change hover effect color */
+}
